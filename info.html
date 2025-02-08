@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="info.css">
+</head>
+<body>
+    <div class="title">
+        <h1>Nouvelles informations</h1>
+    </div>
+    <div class="pos">
+        <select class="apparence" id="categorie" name="categorie">
+            <option value="all">Voir tout</option>
+            <option value="devoir">Devoir</option>
+            <option value="temps">Emplois du temps</option>
+            <option value="menus">Menus cantines</option>
+            <option value="notes">Notes</option>
+        </select>
+    </div>
+    <div class="container" id="container">
+        <div class="rectangle" id="notes">
+            <div class="rec-head">
+                <span>Notes</span>
+                <span>Mme Rien</span>
+            </div>
+            <div class="rec-main">
+                <div>
+                    <p>Evaluation mathématiques 09/04</p>
+                    <p>Note: 11/20</p>
+                </div>
+                <p>Peu mieux faire</p>
+            </div>
+        </div>
+        <div class="rectangle" id="devoir">
+            <div class="rec-head">
+                <span>Devoir</span>
+                <span>Mme Rien</span>
+            </div>
+            <div class="rec-main">
+                <div>
+                    <p>Mathématiques</p>
+                </div>
+                <p>Faire exercice 20, 25, 26, 27</p>
+            </div>
+        </div>
+        <div class="rectangle" id="menus">
+            <div class="rec-head">
+                <span>Menus</span>
+                <span>Mme Manger</span>
+            </div>
+            <div class="rec-main">
+                <div>
+                    <span>Lundi</span>
+                </div>
+                <span>Entrée</span>
+                <span>Plat</span>
+                <span>Dessert</span>
+            </div>
+        </div>
+    </div>
+    <script src="info.js"></script>
+</body>
+</html>

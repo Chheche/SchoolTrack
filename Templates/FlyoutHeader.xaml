@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetDevTest.Templates.FlyoutHeader">
+
+
+    <Grid RowDefinitions="*,70,50"
+          ColumnDefinitions="20,70,*">
+
+        <Image Source="odyssey.jpeg"
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.RowSpan="2"
+               Grid.ColumnSpan="3"/>
+
+        <StackLayout
+            Grid.Column="1"
+            Grid.Row="1"
+            Grid.RowSpan="2"
+            VerticalOptions="CenterAndExpand">
+            
+            <Frame
+                CornerRadius="10"
+                BackgroundColor="Black"
+                BorderColor="Black"
+                Margin="0"
+                Padding="0">
+
+                <ImageButton
+                    Source="die.jpg"
+                    HeightRequest="70"/>
+
+            </Frame>
+        </StackLayout>
+    </Grid>
+    
+</ContentView>

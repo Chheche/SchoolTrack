@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Titre de la page</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscription à l'école</title>
+</head>
+<body>
+    <h1>Inscription à l'école</h1>
+    <form action="/submit_form" method="post">
+        <label for="nom">Nom :</label>
+        <input type="text" id="nom" name="nom" required><br><br>
+
+        <label for="prenom">Prénom :</label>
+        <input type="text" id="prenom" name="prenom" required><br><br>
+
+        <label for="date_naissance">Date de naissance :</label>
+        <input type="date" id="date_naissance" name="date_naissance" required><br><br>
+
+        <label for="email">Email :</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="telephone">Téléphone :</label>
+        <input type="tel" id="telephone" name="telephone" required><br><br>
+
+        <label for="niveau">Niveau scolaire actuel :</label>
+        <select id="niveau" name="niveau" required>
+            <option value="primaire">Primaire</option>
+            <option value="collège">Collège</option>
+            <option value="lycée">Lycée</option>
+        </select><br><br>
+
+        <label for="commentaire">Commentaires :</label><br>
+        <textarea id="commentaire" name="commentaire" rows="4" cols="50"></textarea><br><br>
+
+        <input type="submit" value="Soumettre">
+    </form>
+</body>
+</html>
+
+</body>
+</html>

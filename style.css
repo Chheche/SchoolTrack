@@ -1,0 +1,21 @@
+.Presentation{
+    display: flex;
+}
+.logo{
+    height: 20vh;
+}
+.Nom{
+    margin-top: 8vh;
+}
+.Inscription {
+    margin-left: auto;
+    margin-top: 8vh;
+    height: 4vh;
+}
+.Description{
+    margin-left: 4vw;
+}
+.Ecole{
+    height: 50vh;
+    margin-right: 10vw;
+}

@@ -1,0 +1,45 @@
+/* permet de cacher la barre de defilement */
+::-webkit-scrollbar{
+    display: none;
+}
+
+body {
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(125, 213, 250), rgb(47, 161, 248));
+}
+
+.title {
+    margin-left: 10rem;
+}
+
+.pos {
+    margin-left: 12rem;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.rectangle {
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    width: 25rem;
+    height: 12rem;
+    border-radius: 1rem;
+    margin-top: 3rem;
+}
+
+.rec-head {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.rec-main {
+    margin-left: 1rem;
+}

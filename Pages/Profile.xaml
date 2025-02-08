@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjetDevTest.Profile"
+             Title="Profile"
+             Shell.NavBarIsVisible="False">
+
+
+
+    <WebView 
+        x:Name="ProfilWeb"  
+        Source="file:///C:/Users/ruben/Documents/GitHub/Projet-DEV/profil.html" />
+
+    <!--<VerticalStackLayout Padding="25"
+                         Spacing="25">
+        <Label 
+             Text="Infos"
+             VerticalOptions="Center" 
+             HorizontalOptions="Center" />
+
+        <Button Text="Déconnexion"
+                Clicked="Button_Deco"/>
+
+    </VerticalStackLayout>-->
+</ContentPage>

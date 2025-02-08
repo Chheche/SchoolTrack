@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\pages\\information.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\pages\\information.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\classes\\authentification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\classes\\authentification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\pages\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\pages\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\pages\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\pages\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|c:\\users\\ruben\\documents\\github\\projet-dev\\projetdevtest\\projetdevtest\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A8D4366-2F16-4068-87EE-2F03C1584C06}|ProjetDevTest\\ProjetDevTest.csproj|solutionrelative:projetdevtest\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Information.xaml",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\Information.xaml",
+              "RelativeDocumentMoniker": "ProjetDevTest\\Pages\\Information.xaml",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\Information.xaml",
+              "RelativeToolTip": "ProjetDevTest\\Pages\\Information.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T12:21:04.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ProjetDevTest\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\AppShell.xaml",
+              "RelativeToolTip": "ProjetDevTest\\AppShell.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T12:13:49.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "ProjetDevTest\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "ProjetDevTest\\Pages\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T11:53:39.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ProjetDevTest\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\MauiProgram.cs",
+              "RelativeToolTip": "ProjetDevTest\\MauiProgram.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:39:36.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "ProjetDevTest\\Pages\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\Profile.xaml.cs",
+              "RelativeToolTip": "ProjetDevTest\\Pages\\Profile.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:28:09.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\Profile.xaml",
+              "RelativeDocumentMoniker": "ProjetDevTest\\Pages\\Profile.xaml",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\Profile.xaml",
+              "RelativeToolTip": "ProjetDevTest\\Pages\\Profile.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T09:26:30.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ProjetDevTest\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\AppShell.xaml.cs",
+              "RelativeToolTip": "ProjetDevTest\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:26:11.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authentification.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Classes\\Authentification.cs",
+              "RelativeDocumentMoniker": "ProjetDevTest\\Classes\\Authentification.cs",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Classes\\Authentification.cs",
+              "RelativeToolTip": "ProjetDevTest\\Classes\\Authentification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:51:52.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProjetDevTest\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ruben\\Documents\\GitHub\\Projet-DEV\\ProjetDevTest\\ProjetDevTest\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "ProjetDevTest\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:49:16.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

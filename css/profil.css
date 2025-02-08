@@ -1,0 +1,76 @@
+/* permet de cacher la barre de defilement */
+::-webkit-scrollbar{
+    display: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#background{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position:fixed;
+    z-index: -1;
+    filter: blur(3px) brightness(70%);
+}
+
+.titre{
+    width: 90%;
+    margin: auto;
+    border-radius: 50px;
+    background-color: rgb(156, 129, 42);
+    font-size: 70px;
+    font-size: 50px;
+    text-align: center;
+    box-shadow: 5px 5px 20px black;
+}
+
+section{
+    /*background-color: rgb(203, 172, 69);*/
+    width: 100%;
+    padding: 20px 0;
+}
+#profil div{
+    font-size: 50px;
+    text-align: center;
+}
+#photo-profil{
+    box-shadow: 5px 5px 20px black;
+    display: block;
+    margin: 50px auto;
+    margin-bottom: 50px;
+    border-radius: 9999px;
+    width: 80%;
+}
+#profil-details{
+    box-shadow: 5px 5px 20px black;
+    width: 90%;
+    margin: auto;
+    background-color: #FFF8;
+    border-radius: 50px;
+}
+
+#enfants .enfant{
+    width: 90%;
+    margin: 20px auto;
+    display: grid;
+    gap: 5%;
+    grid-template-columns: min-content auto;
+    background-color: #FFF8;
+    padding:10px;
+    border-radius: 9999px;
+    box-shadow: 5px 5px 20px black;
+}
+#enfants .enfant img{
+    display: block;
+    width: 200px;
+    border-radius: 9999px;
+    box-shadow: 5px 5px 20px black;
+}
+
+#enfants .enfant .enfant-details{}
+#enfants .enfant .enfant-details div{
+    font-size: 20px;
+}

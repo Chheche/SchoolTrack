@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ProjetDevTest.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ProjetDevTest"
+    xmlns:pages="clr-namespace:ProjetDevTest.Pages"
+    xmlns:templates="clr-namespace:ProjetDevTest.Templates"
+    Shell.FlyoutBehavior="Flyout"
+    FlyoutBackground="Beige"
+    Shell.FlyoutWidth="250"
+    Title="ProjetDevTest">
+
+    <Shell.FlyoutHeader>
+        <templates:FlyoutHeader/>
+    </Shell.FlyoutHeader>
+
+    <Shell.FlyoutFooter>
+        <templates:FlyoutFooter/>
+    </Shell.FlyoutFooter>
+
+    <FlyoutItem
+        FlyoutDisplayOptions="AsMultipleItems">
+
+        <ShellContent
+            Title="Login"
+            Icon="fighter.jpg"
+            ContentTemplate="{DataTemplate local:LoginPage}"
+            Route="LoginPage"
+            Shell.FlyoutItemIsVisible="False"
+            Shell.FlyoutBehavior="Disabled"> <!--permet de faire disparaitre le menu avec les autres pages-->
+
+            <Shell.ItemTemplate>
+                <DataTemplate>
+                    <templates:FlyoutItems
+                        Title="Login"
+                        Icon="fighter.jpg"/>
+                </DataTemplate>
+            </Shell.ItemTemplate>
+
+        </ShellContent>   <!--Login-->
+
+        <ShellContent
+            Title="Home"
+            Icon="fighter.jpg"
+            ContentTemplate="{DataTemplate local:MainPage}">
+
+            <Shell.ItemTemplate>
+                <DataTemplate>
+                    <templates:FlyoutItems
+                            Title="Home"
+                            Icon="fighter.jpg"/>
+                </DataTemplate>
+            </Shell.ItemTemplate>
+
+        </ShellContent>   <!--MainPage-->
+
+        <ShellContent
+            Title="Profil"
+            Icon="dotnet_bot.png"
+            ContentTemplate="{DataTemplate local:Profile}">
+
+            <Shell.ItemTemplate>
+                <DataTemplate>
+                    <templates:FlyoutItems
+                        Title="Profil"
+                        Icon="dotnet_bot.png"/>
+                </DataTemplate>
+            </Shell.ItemTemplate>
+
+        </ShellContent>   <!--Profil-->
+
+        <ShellContent
+            Title="Infos"
+            Icon="everest.jpg"
+            ContentTemplate="{DataTemplate pages:Information}">
+
+            <Shell.ItemTemplate>
+                <DataTemplate>
+                    <templates:FlyoutItems
+                        Title="Infos"
+                        Icon="everest.jpg"/>
+                </DataTemplate>
+            </Shell.ItemTemplate>
+
+        </ShellContent>   <!--Information-->
+
+
+        <!--FlyoutItemIsVisible="False" pour faire disparaitre ds la barre des differentes pages-->
+
+    </FlyoutItem>
+
+</Shell>
